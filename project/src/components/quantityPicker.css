@@ -1,0 +1,10 @@
+.quantity-picker{
+    margin-top: 10px;
+}
+.quantity-picker button{
+    width: 5%;
+    padding: 2px 2px;
+}
+.value{
+    margin-left: 5px;
+}
